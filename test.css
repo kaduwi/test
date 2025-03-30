@@ -3276,9 +3276,6 @@ p {
 }
 
 /*2104*/
-.l-footer:before {
-    content: 'E-design v.4.37.3';
-}
 .b-club .name-logo .name {
     transition: 1s ease;
 }
